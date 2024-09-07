@@ -163,4 +163,10 @@ footer {
     footer {
         font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
     }
+    .grafico {
+        width: 100%;
+        height: 150px;
+        background-color: #f0f0f0; /* Cor de fundo padrão */
+        border: 1px solid #ddd;
+      }
 }
